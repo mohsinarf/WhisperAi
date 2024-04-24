@@ -19,6 +19,12 @@ The server supports the following pre-trained models for speech recognition:
 - `socket`: Used for creating server-client communication via TCP/IP.
 - `whisper`: A library for speech recognition and synthesis.
 
+  ## Installation
+To install the required dependencies, run:
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 1. Run the server script on the machine where you want to receive the audio files and perform speech-to-text transcription.
 2. Clients can connect to the server and send audio files in WAV format.
