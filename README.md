@@ -3,9 +3,9 @@
 ## Overview
 This project implements a simple speech-to-text server using Python's socket programming and the Whisper library for speech recognition. The server receives audio files in WAV format, transcribes them into text using the specified pre-trained model, and sends back the transcribed text to the client.
 
-<div style="text-align: center;">
+<center>
   <img src="images/RecordingApp.png" alt="Qt recording app" width="500">
-</div>
+</center>
 
 ## Requirements
 - Python 3.x
