@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pause-button.png</file>
+        <file>rec-button.png</file>
+        <file>stop-button.png</file>
+        <file>straightLine.png</file>
+        <file>data-wave.png</file>
+        <file>SolidLine.png</file>
+        <file>closeBtn.png</file>
+    </qresource>
+</RCC>

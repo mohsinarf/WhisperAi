@@ -6,6 +6,7 @@ This project implements a simple speech-to-text server using Python's socket pro
 ## Requirements
 - Python 3.x
 - Whisper library (installed via pip: `pip install whisper`)
+- Qt 5.15
 
 ## Supported Models
 The server supports the following pre-trained models for speech recognition:
